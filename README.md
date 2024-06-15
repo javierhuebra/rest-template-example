@@ -1,2 +1,2 @@
-### Ejemplo de rest template
+### Ejemplo de rest template y Scheduled
 ```Apuntes```
